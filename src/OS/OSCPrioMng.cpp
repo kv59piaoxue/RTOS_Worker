@@ -4,7 +4,7 @@
 	//作者：谢国经
 	//QQ：931141594、934854563
 	//邮箱：kv59piaoxue@163.com
-	//电话：13726903019
+	//电话：
 	//时间：2010年
 uint32   OSCPrioMng::HighPrio = 0;
 OSCPrio   OSCPrioMng::PrioArry[DF_MINPRIO+1] ; 
